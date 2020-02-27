@@ -1,5 +1,5 @@
 /* @import url(fontawesome-all.min.css); */
-@import url("https://fonts.googleapis.com/css?family=Google+Sans:300italic,600italic,300,600");
+@import url("https://fonts.googleapis.com/css?family=Oxanium:300italic,600italic,300,600");
 
 /*
 	Dimension by HTML5 UP
@@ -230,7 +230,7 @@ input,
 select,
 textarea {
   color: #ffffff;
-  font-family: "Google Sans", sans-serif;
+  font-family: "Oxanium", sans-serif;
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.65;
@@ -1347,7 +1347,6 @@ body.is-preload #bg:before {
 }
 
 /* Header */
-
 #header {
   display: -moz-flex;
   display: -webkit-flex;
@@ -1747,7 +1746,6 @@ body.is-preload #header .content .inner {
 }
 
 /* Footer */
-
 #footer {
   -moz-transition: -moz-transform 0.325s ease-in-out,
     -moz-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
